@@ -1,0 +1,4 @@
+@DinePilotAI.API_HostAddress = http://localhost:5155
+
+###
+# DinePilot AI API — HTTP requests will be added here.
